@@ -4,4 +4,4 @@ g++-10 -O3 -Wall -shared -std=c++11 -undefined dynamic_lookup $(python3 -m pybin
 ```
 to run the python file type in the terminal:
 ```
-python3 run.py # Fast-Fourier-Transform-vs-Discrete-Fourier-Transform
+python3 run.py
